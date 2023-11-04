@@ -1,11 +1,12 @@
 package field
 
 import (
-	"github.com/quickfixgo/enum"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
-	"github.com/shopspring/decimal"
 	"time"
+
+	"github.com/shopspring/decimal"
+	"github.com/terracefi/enum"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //AccountField is a STRING field
